@@ -12,6 +12,9 @@ export default function Index() {
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
       <h1>Casey Johnson</h1>
       <h2>Software Engineer</h2>
+      <p>
+        Welcome to your new <a href="https://remix.run">Remix</a> application.
+      </p>
       <ul>
         <li>
           <a
